@@ -79,6 +79,6 @@ To resolve the physical capacity constraints (Catastrophic Interference) documen
 
 ## ✍️ Author
 
-**Shreekant Jadhav**
-*Independent AI Researcher* 
+**Shreekant Jadhav**<br>
+*Independent AI Researcher* <br>
 shreejadhav4625@gmail.com
