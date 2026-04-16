@@ -1,4 +1,4 @@
-HUMEM: Hebbian Universal Memory Emulation Model
+#🧠HUMEM: Hebbian Universal Memory Emulation Model
 
 HUMEM is a neuro-symbolic architecture that grants Large Language Models (LLMs) biologically plausible, $O(1)$ episodic memory. By replacing monolithic dense vector databases (RAG) with a sparse, unsupervised synaptic matrix trained via Oja's Rule, HUMEM completely bypasses the logarithmic latency degradation and physical disk bloat associated with modern context retrieval.
 
@@ -17,7 +17,7 @@ Instead of a geometric search, HUMEM uses an external array of 256 physical arti
 
 (Insert your architecture image here. Upload image_08d3f2.png to your repo and link it below)
 
-![HUMEM Architecture](path_to_your_architecture_image.png)
+![HUMEM Architecture](architecture.png)
 
 Key Concepts
 
@@ -33,7 +33,7 @@ We stress-tested HUMEM against FAISS IndexFlatIP over a 1,000-turn homogeneous i
 
 (Insert your benchmark graph here. Upload image_08c1cb.png to your repo and link it below)
 
-![HUMEM Benchmarks](path_to_your_benchmark_image.png)
+![HUMEM Benchmarks](humem_benchmarks.png)
 
 Telemetry Results (1,000 Turns)
 
