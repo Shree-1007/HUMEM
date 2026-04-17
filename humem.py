@@ -2,7 +2,7 @@
 HUMEM: Hebbian Universal Memory Emulation Model
 Core Architecture Implementation
 
-Author: Shreekant Jadhav
+Author: Shreekant Jadhav, Prof. Suhas Chavan
 Paper: "HUMEM: Hebbian Universal Memory Emulation Model for O(1) Episodic Routing"
 """
 
