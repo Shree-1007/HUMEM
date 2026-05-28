@@ -83,8 +83,5 @@ To resolve the physical capacity constraints (Catastrophic Interference) documen
 *Independent AI Researcher* <br>
 shreejadhav4625@gmail.com <br>
 <br>
-**Prof. Suhas Chavan**<br>
-*Assistant Professor, Computer Engineering Department,* <br>
-*Vishwakarma University, Pune* <br>
-chavan.suhas18@gmail.com <br>
+
 
